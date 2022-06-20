@@ -10,8 +10,8 @@ const FailedMeta: ComponentMeta<typeof FailedComponent> = {
 
 const Failed: StoryObj<FailedProps> = {
   args: {
-    height: 200,
-    width: 200,
+    height: 500,
+    width: 500,
   },
 };
 

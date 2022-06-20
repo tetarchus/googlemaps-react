@@ -10,8 +10,8 @@ const LoadingMeta: ComponentMeta<typeof LoadingComponent> = {
 
 const Loading: StoryObj<LoadingProps> = {
   args: {
-    height: 200,
-    width: 200,
+    height: 500,
+    width: 500,
   },
 };
 
